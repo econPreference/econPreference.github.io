@@ -15,7 +15,7 @@ Repository: <https://github.com/econPreference> <br>
 - **M.A.,** Economics, Korea University, August 2019
 - **B.S.,** Business, Sungkyunkwan University, February 2017
 
-## Research Interests
+## Research Areas
 
 - Bayesian Machine Learning
 - Asset Pricing
