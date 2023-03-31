@@ -23,9 +23,9 @@ Repository: <https://github.com/econPreference> <br>
 
 ## Working Papers
 
-- Global Factors in Inflation and Interest Rates (with Kyu Ho Kang), under review
-- Regime-Switching Macro Risks in the Term Structure of Interest Rates (with Kyu Ho Kang)
 - Prior Selection for a High-Dimensional Macro-Finance Affine Term Structure Model (with Kyu Ho Kang)
+- Regime-Switching Macro Risks in the Term Structure of Interest Rates (with Kyu Ho Kang)
+- Global Factors in Inflation and Interest Rates (with Kyu Ho Kang), under review
 
 ## Conferences & Seminars
 
