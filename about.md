@@ -1,5 +1,8 @@
-
-# **Sun Ho Lee**
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 Ph.D. student<br>
 Department of Economics, Korea University <br>
