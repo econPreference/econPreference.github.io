@@ -3,6 +3,10 @@
     {
       "language": "markdown",
       "scheme": "file"
+    },
+    {
+      "language": "yaml",
+      "scheme": "file"
     }
   ]
 }
