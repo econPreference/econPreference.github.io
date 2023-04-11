@@ -8,5 +8,5 @@ permalink: /about/
 
 ## Working Papers
 
-- Regime-Switching Macro Risks in the Term Structure of Interest Rates (with Kyu Ho Kang)
+- [Regime-Switching Macro Risks in the Term Structure of Interest Rates (with Kyu Ho Kang), under review](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414404)
 - [Global Factors in Inflation and Interest Rates (with Kyu Ho Kang), under review](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3874405)
