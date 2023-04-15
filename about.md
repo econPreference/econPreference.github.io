@@ -4,7 +4,7 @@ title: Sun Ho Lee
 permalink: /about/
 ---
 
-[Curriculum vitae](https://github.com/econPreference/econPreference.github.io/blob/master/CV.pdf)
+[Curriculum vitae](https://github.com/econPreference/econPreference.github.io/blob/master/CV.pdf?raw=true)
 
 ## Packages
 
