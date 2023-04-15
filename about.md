@@ -8,7 +8,7 @@ permalink: /about/
 
 ## Packages
 
-- [Bayecon-matlab](https://github.com/econPreference/Bayecon-matlab): user-friendly Bayesian econometrics Matlab toolbox that does not require users to write a script. It is really easy to use!
+- [bayecon.matlab](https://github.com/econPreference/bayecon.matlab): user-friendly Bayesian econometrics Matlab toolbox that does not require users to write a script. It is really easy to use!
 
 ## Working Papers
 
