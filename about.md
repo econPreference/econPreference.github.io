@@ -13,6 +13,6 @@ permalink: /about/
 ## Working Papers
 
 - Regime-Switching Macro Risks in the Term Structure of Interest Rates (with Kyu Ho Kang), under review,\
-  [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414404), [[my post]](https://github.com/econPreference/econPreference.github.io/blob/master/_posts/2023-4-16-RSmacro.md)
+  [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414404), [[my post]](https://econpreference.github.io/RSmacro/)
 - Global Factors in Inflation and Interest Rates (with Kyu Ho Kang), under review,\
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3874405)
