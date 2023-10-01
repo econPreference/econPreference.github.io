@@ -4,10 +4,15 @@ title: Sun Ho Lee
 permalink: /about/
 ---
 
+[curriculum vitae](https://github.com/econPreference/econPreference.github.io/blob/master/CV.pdf)
+
 ![about_fig.gif](about_fig.gif)
+
 [Bayesian yield curve fitting using the Gaussian Process(GP) model](https://github.com/econPreference/econPreference.github.io/blob/master/about_code.py)
 
-[curriculum vitae](https://github.com/econPreference/econPreference.github.io/blob/master/CV.pdf)
+## Research Interests
+
+(Bayesian) Machine Learning, Asset Pricing, Monetary Policy, Macroeconometrics
 
 ## Packages
 
@@ -15,12 +20,12 @@ permalink: /about/
 
 ## Working Papers
 
-- "Regime-Switching Macro Risks in the Term Structure of Interest Rates", with Kyu Ho Kang, under review.\
+- "Regime-Switching Macro Risks in the Term Structure of Interest Rates", with Kyu Ho Kang, under review\
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414404), [[my post]](https://econpreference.github.io/RSmacro/)
-- "Global Factors in Inflation and Interest Rates", with Kyu Ho Kang, under revision.\
+- "Global Factors in Inflation and Interest Rates", with Kyu Ho Kang, under revision\
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3874405)
 
 ## Publications
 
-- “Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve”, 2023, Economic Analysis, Vol. 29(3), The Economic Research Institute of the Bank of Korea, pp. 1-34.\
+- “Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve”, 2023, Economic Analysis, Vol. 29(3), The Economic Research Institute of the Bank of Korea, pp. 1-34\
   [[paper]](https://www.bok.or.kr/imerEng/bbs/E0002726/view.do?nttId=10079763&menuNo=600346&pageIndex=1)
