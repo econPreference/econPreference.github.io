@@ -27,5 +27,5 @@ permalink: /about/
 
 ## Publications
 
-- “Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve”, 2023, Economic Analysis, Vol. 29(3), The Economic Research Institute of the Bank of Korea, pp. 1-34\
+- “Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve”, 2023, Economic Analysis, Vol. 29(3), The Economic Research Institute of the Bank of Korea, pp. 1-34.\
   [[paper]](https://www.bok.or.kr/imerEng/bbs/E0002726/view.do?nttId=10079763&menuNo=600346&pageIndex=1)
