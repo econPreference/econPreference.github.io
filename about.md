@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 ![about_fig.gif](about_fig.gif)
+[Bayesian yield curve fitting using the Gaussian Process(GP) model](https://github.com/econPreference/econPreference.github.io/blob/master/about_code.py)
 
 [curriculum vitae](https://github.com/econPreference/econPreference.github.io/blob/master/CV.pdf)
 
