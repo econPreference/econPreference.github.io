@@ -4,7 +4,7 @@ title: Sun Ho Lee
 permalink: /about/
 ---
 
-![about_fig.gif](https://github.com/econPreference/econPreference.github.io/blob/master/about_fig.gif)
+![about_fig.gif](about_fig.gif)
 
 [curriculum vitae](https://github.com/econPreference/econPreference.github.io/blob/master/CV.pdf)
 
@@ -21,5 +21,5 @@ permalink: /about/
 
 ## Publications
 
-- • “Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve”, 2023, Economic Analysis, Vol. 29(3), The Economic Research Institute of the Bank of Korea, pp. 1-34.\
+- “Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve”, 2023, Economic Analysis, Vol. 29(3), The Economic Research Institute of the Bank of Korea, pp. 1-34.\
   [[paper]](https://www.bok.or.kr/imerEng/bbs/E0002726/view.do?nttId=10079763&menuNo=600346&pageIndex=1)
