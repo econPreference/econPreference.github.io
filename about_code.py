@@ -19,13 +19,14 @@ fig, ax = plt.subplots()
 
 # Initialize the plot
 line, = ax.plot(maturities, yields, 'k-', label='estimated yield curve')
-true_line, = ax.plot(maturities, true_yields, 'b-', label='true yield curve')
-point, = ax.plot([], [], 'ro', label='new observation')
+true_line, = ax.plot(maturities, true_yields, 'r-',
+                     label='population yield curve')
+point, = ax.plot([], [], 'bo', label='observations')
 ax.set_xlim(0, 10.25)
 ax.set_ylim(0, 7.7)
 ax.set_xlabel('maturity (years)')
-ax.set_ylabel('yield (%)')
-ax.legend(loc='upper right')
+ax.set_ylabel('yield (percent per annum)')
+ax.legend(loc='upper center', ncol=3,  bbox_to_anchor=(0.5, 1.11))
 
 # Initialize Gaussian Process
 kernel = C() * RBF() + WhiteKernel()
@@ -58,12 +59,12 @@ def update(frame):
 
     # Update plot
     line.set_data(x_pred, y_pred)
-    point.set_data(random_maturity, new_observation)
+    point.set_data(maturities, yields)
 
-    frame_text.set_text(f'iteration: {frame+1}')
+    frame_text.set_text(f'#obs: {yields.size}')
     return line, point, true_line
 
 
 # Do
 ani = animation.FuncAnimation(fig, update, frames=range(100))
-ani.save('about_fig.gif', writer='preference', fps=1)
+ani.save('about_fig.gif', writer='pillow', fps=1)
