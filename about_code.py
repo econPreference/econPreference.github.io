@@ -27,7 +27,7 @@ line, = ax.plot(maturities, np.array(
 quantile_band = ax.fill_between(
     [], [], [], alpha=0.2, color='blue', label='95% posterior interval')
 point, = ax.plot([], [], 'bo', label='current observations')
-ax.set_xlim(0, 10.25)
+ax.set_xlim(-0.25, 10.25)
 ax.set_ylim(-0.1, 7.1)
 ax.set_xlabel('maturity (years)')
 ax.set_ylabel('yield (percent per annum)')
