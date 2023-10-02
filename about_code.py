@@ -24,15 +24,15 @@ fig, ax = plt.subplots()
 # Initialize the plot
 line, = ax.plot(maturities, np.array(
     df.loc[dates[0]]), 'k-', label='representative yield curve over the last year')
-point, = ax.plot([], [], 'bo', label='current observations')
 quantile_band = ax.fill_between(
     [], [], [], alpha=0.2, color='blue', label='95% posterior interval')
+point, = ax.plot([], [], 'bo', label='current observations')
 ax.set_xlim(0, 10.25)
 ax.set_ylim(-0.1, 7.1)
 ax.set_xlabel('maturity (years)')
 ax.set_ylabel('yield (percent per annum)')
 ax.legend()
-frame_text = ax.text(0.05, 0.95, '', transform=ax.transAxes,
+frame_text = ax.text(0.025, 0.95, '', transform=ax.transAxes,
                      verticalalignment='top')
 
 # Initialize Gaussian Process
