@@ -8,3 +8,4 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+yield_panel_monthly_frequency_monthly_maturity.csv
