@@ -23,10 +23,10 @@ fig, ax = plt.subplots()
 
 # Initialize the plot
 line, = ax.plot(maturities, np.array(
-    df.loc[dates[0]]), 'k-', label='average yield curve over the past year')
+    df.loc[dates[0]]), 'k-', label='average yield curve over the past 12 months')
 point, = ax.plot([], [], 'bo', label='current observations')
 quantile_band = ax.fill_between(
-    [], [], [], alpha=0.2, color='blue', label='95% CI')
+    [], [], [], alpha=0.2, color='blue', label='95% posterior interval')
 ax.set_xlim(0, 10.25)
 ax.set_ylim(-0.1, 7.1)
 ax.set_xlabel('maturity (years)')
