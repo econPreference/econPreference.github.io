@@ -4,11 +4,13 @@ title: Sun Ho Lee
 permalink: /about/
 ---
 
-[curriculum vitae](https://github.com/econPreference/econPreference.github.io/blob/master/CV.pdf)
+[Curriculum Vitae(CV)](https://github.com/econPreference/econPreference.github.io/blob/master/CV.pdf)
 
 ![about_fig.gif](about_fig.gif)
 
-[Bayesian yield curve fitting using the Gaussian Process(GP) model](https://github.com/econPreference/econPreference.github.io/blob/master/about_code.py)
+[dynamic changes in the US government yield curve over the recent years under the Gaussian Process(GP) model](https://github.com/econPreference/econPreference.github.io/blob/master/about_code.py)
+
+- [raw data source: Filipović et al. 2022](https://www.discount-bond-data.org)
 
 ## Research Interests
 
@@ -27,5 +29,7 @@ permalink: /about/
 
 ## Publications
 
+in Korean
+
 - “Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve”, 2023, Economic Analysis, Vol. 29(3), The Economic Research Institute of the Bank of Korea, pp. 1-34.\
-  [[paper]](https://www.bok.or.kr/imerEng/bbs/E0002726/view.do?nttId=10079763&menuNo=600346&pageIndex=1)
+  [[paper]](https://www.bok.or.kr/imer/bbs/P0000556/view.do?nttId=10079760&menuNo=500783&pageIndex=1)
