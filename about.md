@@ -6,11 +6,9 @@ permalink: /about/
 
 [Curriculum Vitae(CV)](https://github.com/econPreference/econPreference.github.io/blob/master/CV.pdf)
 
-> **[dynamic changes in the US government yield curve over the recent years]**
+> **[dynamic changes in the US government yield curve over the recent years]** ![about_fig.gif](about_fig.gif)
 >
-> ![about_fig.gif](about_fig.gif)
->
-> - `12-month average yield curve up to now` and `95% posterior interval` are derived from [the Gaussian Process(GP) model](https://github.com/econPreference/econPreference.github.io/blob/master/about_code.py).
+> - "12-month average yield curve up to now" and "95% posterior interval" are derived from [the Gaussian Process(GP) model](https://github.com/econPreference/econPreference.github.io/blob/master/about_code.py).
 > - raw data source: [Filipović et al. 2022](https://www.discount-bond-data.org)
 
 ## Research Interests
