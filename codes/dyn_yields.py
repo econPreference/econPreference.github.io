@@ -68,4 +68,4 @@ def update(frame):
 
 # Do
 ani = animation.FuncAnimation(fig, update, frames=range(dates.size))
-ani.save('images/dyn_yields.gif', writer='pillow', fps=1)
+ani.save('images/2023-10-3-dyn_yields.gif', writer='pillow', fps=1)
