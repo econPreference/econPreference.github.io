@@ -4,6 +4,9 @@ title: Sun Ho Lee
 permalink: /about/
 ---
 
+![self.jpeg](/images/self.jpeg)
+(Blue Mountains, Australia)
+
 [Curriculum Vitae(CV)](https://github.com/econPreference/econPreference.github.io/blob/master/CV.pdf)
 
 ## Research Interests
