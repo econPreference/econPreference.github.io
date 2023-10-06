@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dynamic changes in the US government yield curve over the recent years
+title: Modelling the representative yield curve over a year
 ---
 
 ![about_fig.gif](/images/2023-10-3-dyn_yields.gif)
