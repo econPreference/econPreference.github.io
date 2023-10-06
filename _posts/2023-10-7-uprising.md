@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Limitations in the US Yield Curves Control; Long-Term Yield Insensitivity Following the Recent Fed Rate Hikes
+title: Limitations in the US Yield Curves Control; Long-Term Yield Insensitivity during the Recent Fed Rate Hikes
 ---
 
 ![about_fig.gif](/images/2023-10-7-uprising.gif)
