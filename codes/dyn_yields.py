@@ -16,7 +16,7 @@ maturities = np.append(maturities, np.linspace(72, 120, 5))
 maturities_str = maturities.astype(int).astype(str)
 df = 100*df[maturities_str]
 maturities = maturities/12
-dates = pd.date_range(start='2016-01', end='2023-09', freq='M').to_period('M')
+dates = pd.date_range(start='1987-01', end='2023-09', freq='M').to_period('M')
 
 # Initialize the figure and axis
 fig, ax = plt.subplots()
@@ -28,7 +28,7 @@ quantile_band = ax.fill_between(
     [], [], [], alpha=0.2, color='blue', label='95% posterior interval')
 point, = ax.plot([], [], 'bo', label='current observations')
 ax.set_xlim(-0.25, 10.25)
-ax.set_ylim(-0.1, 7.1)
+ax.set_ylim(-0.1, 14.1)
 ax.set_xlabel('maturity (years)')
 ax.set_ylabel('yield (percent per annum)')
 ax.legend()
@@ -36,7 +36,7 @@ frame_text = ax.text(0.025, 0.95, '', transform=ax.transAxes,
                      verticalalignment='top')
 
 # Initialize Gaussian Process
-kernel = C() * RBF() + WhiteKernel()
+kernel = C() * RBF(length_scale_bounds=(1e-5, 1e7)) + WhiteKernel()
 gp = GaussianProcessRegressor(kernel=kernel)
 
 # Main loop
@@ -68,4 +68,4 @@ def update(frame):
 
 # Do
 ani = animation.FuncAnimation(fig, update, frames=range(dates.size))
-ani.save('images/2023-10-3-dyn_yields.gif', writer='pillow', fps=1)
+ani.save('images/2023-10-3-dyn_yields.gif', writer='pillow', fps=6)
