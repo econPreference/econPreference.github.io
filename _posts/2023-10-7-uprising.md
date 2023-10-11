@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Yield Curve Variations in 2022-2023; FOMC's Influence on the US yield curve and the Approaching Peak of the Fed Rate Cycle
-excerpt_separator: <!--more-->
 ---
 
 ![about_fig.gif](/images/2023-10-7-uprising.gif)
@@ -15,5 +14,3 @@ In the figure, following the Fed rate hike initiated in March 2022, pronounced d
 The responsiveness of long-term yields to FOMC decisions is crucial for the monetary policy's influential economic impact. Nevertheless, our figure highlights a constrained spillover from the short to the long end of the US yield curve in 2023. This limited influence might challenge the Fed, especially if they aim to suppress inflation further.
 
 By August 2023, discrepancies have diminished across all maturities, and the yield curve has remained relatively stable over the past year. It points towards the fact that we are about to reach the peak of the current fed rate cycle. A favorable phase might be on the horizon, potentially ushering in a temporary financial market exuberance.
-
- <!--more-->
