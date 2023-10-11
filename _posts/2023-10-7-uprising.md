@@ -3,7 +3,9 @@ layout: post
 title: Yield Curve Variations in 2022-2023; FOMC's Influence on the US yield curve and the Approaching Peak of the Fed Rate Cycle
 ---
 
-![about_fig.gif](/images/2023-10-7-uprising.gif)
+<p style="text-align: center;">
+  <a href="url"><img src="https://econpreference.github.io/images/2023-10-7-uprising.gif"></a>
+</p>
 
 - [technical explanation about the graph](https://econpreference.github.io/dyn_yields/)
 

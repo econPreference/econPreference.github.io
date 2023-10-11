@@ -4,7 +4,9 @@ title: Modelling the representative yield curve over a year
 excerpt_separator: <!--more-->
 ---
 
-![about_fig.gif](/images/2023-10-3-dyn_yields.gif)
+<p style="text-align: center;">
+  <a href="url"><img src="https://econpreference.github.io/images/2023-10-3-dyn_yields.gif"></a>
+</p>
 
 - [code](https://github.com/econPreference/econPreference.github.io/blob/master/codes/dyn_yields.py)
 - raw data source: [Filipović et al. 2022](https://www.discount-bond-data.org)
