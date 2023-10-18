@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yield Curve Variations in 2022-2023; FOMC's Influence on the US yield curve and the Approaching Peak of the Fed Rate Cycle
+title: Yield curve variations in 2022-2023; FOMC's influence on the US yield curve and the approaching peak of the Fed rate cycle
 ---
 
 <p style="text-align: center;">
