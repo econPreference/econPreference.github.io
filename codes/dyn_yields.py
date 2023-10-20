@@ -16,7 +16,7 @@ maturities = np.append(maturities, np.linspace(72, 120, 5))
 maturities_str = maturities.astype(int).astype(str)
 df = 100*df[maturities_str]
 maturities = maturities/12
-dates = pd.date_range(start='1987-01', end='2023-09', freq='M').to_period('M')
+dates = pd.date_range(start='1987-01', end='2023-01', freq='M').to_period('M')
 
 # Initialize the figure and axis
 fig, ax = plt.subplots()
@@ -68,4 +68,4 @@ def update(frame):
 
 # Do
 ani = animation.FuncAnimation(fig, update, frames=range(dates.size))
-ani.save('images/2023-10-3-dyn_yields.gif', writer='pillow', fps=6)
+ani.save('images/2023-2-3-dyn_yields.gif', writer='pillow', fps=6)
