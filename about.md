@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <p style="text-align: center;">
-  <a href="url"><img src="https://econpreference.github.io/images/self.jpg" width="480" ></a>
+  <a href="url"><img src="https://econpreference.github.io/images/self.jpg" width="360" ></a>
 </p>
 
 [Curriculum Vitae(CV)](https://github.com/econPreference/econPreference.github.io/blob/master/CV.pdf)
@@ -34,4 +34,4 @@ Bayesian Machine Learning, Term Structure of Interest Rates, Asset Pricing, Mone
 in Korean
 
 - “Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve”, 2023, **Economic Analysis**, 29(3), 1-34, publisher: Bank of Korea\
-  [[paper]](https://www.bok.or.kr/imer/bbs/P0000556/view.do?nttId=10079760&menuNo=500783&pageIndex=1)
+  [[paper]](https://www.bok.or.kr/imerEng/bbs/E0002726/view.do?nttId=10079763&menuNo=600346&pageIndex=1)
