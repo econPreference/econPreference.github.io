@@ -17,11 +17,9 @@ The responsiveness of long-term yields to FOMC decisions is crucial for the mone
 
 By August 2023, discrepancies have diminished across all maturities, and the yield curve has remained relatively stable over the past year. It points towards the fact that we are about to reach the peak of the current fed rate cycle. A favorable phase might be on the horizon, potentially ushering in a temporary financial market exuberance.
 
-**UPDATE (October 20, 2023)**
-
 ---
 
-The time required to traverse the peak of the cycle has lengthened, owing to the adaptation of the U.S. economy to elevated yields and its subsequent robust growth. Concurrently, the long end of the yield curve continues its upward trajectory.
+**_UPDATE (October 20, 2023)_** The time required to traverse the peak of the cycle has lengthened, owing to the adaptation of the U.S. economy to elevated yields and its subsequent robust growth. Concurrently, the long end of the yield curve continues its upward trajectory.
 
 I do not attribute this phenomenon to the policy channel, particularly as long-term yields have surged more dramatically than their medium-term counterparts. This could possibly be due to anticipations of a decline (or increase) in the long-run value of money(or long-run neutral inflation). Alternatively, investors may pull their funds out of the bond market and wait for an opportune time to invest in riskier assets, as the Federal Reserve's rate-hiking cycle is expected to end.
 
