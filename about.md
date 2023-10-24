@@ -23,7 +23,7 @@ Bayesian Machine Learning, Term Structure of Interest Rates, Asset Pricing, Mone
 - "Regime-Switching Macro Risks in the Term Structure of Interest Rates", with Kyu Ho Kang, _under review_\
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414404), [[blog post]](https://econpreference.github.io/RSmacro/)
 - "Global Factors in Inflation and Interest Rates", with Kyu Ho Kang, _revise and resubmit_ at **Emerging Markets Finance and Trade**\
-  [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3874405)
+  [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3874405), [[blog post]](https://econpreference.github.io/YC_inflt/)
 
 ## Packages
 
