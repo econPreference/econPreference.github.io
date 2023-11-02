@@ -27,7 +27,7 @@ Bayesian Machine Learning, Term Structure of Interest Rates, Asset Pricing, Mone
 
 ## Packages
 
-- [bayecon.matlab](https://github.com/econPreference/bayecon.matlab): User-friendly Bayesian econometrics Matlab toolbox that does not require users to write a script. It is really easy to use!
+- [bayecon.matlab](https://github.com/econPreference/bayecon.matlab): User-friendly Bayesian econometrics MATLAB toolbox that does not require users to write a script. It is really easy to use!
 
 ## Publications
 
