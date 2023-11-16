@@ -8,7 +8,7 @@ permalink: /about/
   <a href="url"><img src="https://econpreference.github.io/images/self.jpg" width="360" ></a>
 </p>
 
-[Curriculum Vitae(CV), under revision]<!--(https://github.com/econPreference/econPreference.github.io/blob/master/CV.pdf?raw=true)-->
+[Curriculum Vitae(CV)](https://github.com/econPreference/econPreference.github.io/blob/master/CV.pdf?raw=true)
 
 ## Research Interests
 
