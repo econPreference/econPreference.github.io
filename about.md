@@ -16,7 +16,7 @@ Financial Economics, Monetary Economics, Machine Learning, Bayesian Econometrics
 
 ## Working Papers
 
-- "Estimating a Large VAR of the Yield Curve and Macroeconomic Variables with the No-Arbitrage Restriction", with Kyu Ho Kang\
+- "A Large Vector Autoregression of the Yield Curve and Macroeconomic Variables with No-Arbitrage Restriction", with Kyu Ho Kang\
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708628)
 
   - Related Package: [`GDTSM.jl`](https://github.com/econPreference/GDTSM.jl) (Julia-based Bayesian estimation and scenario analysis package for the Gaussian affine term structure model, capable of incorporating numerous macro risks and lag terms)
