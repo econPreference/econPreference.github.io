@@ -6,7 +6,7 @@ from sklearn.gaussian_process import GaussianProcessRegressor
 from sklearn.gaussian_process.kernels import RBF, ConstantKernel as C, WhiteKernel
 
 # Loading a yield data file using the pandas library
-df = pd.read_csv('yield_panel_monthly_frequency_monthly_maturity.csv',
+df = pd.read_csv('codes/yield_panel_monthly_frequency_monthly_maturity.csv',
                  parse_dates=[0], index_col=0)
 df['Year-Month'] = df.index.to_period('M')
 df.index = df['Year-Month']
