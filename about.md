@@ -10,6 +10,10 @@ permalink: /about/
 
 [Curriculum Vitae(CV)](https://econPreference.github.io/CV.pdf)
 
+## Current Position
+
+Economist, Research Department, Bank of Korea, June 2024 - Present
+
 ## Research Fields
 
 Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics, Empirical Macroeconomics
