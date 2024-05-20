@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sun Ho Lee
+title: Sunho Lee
 permalink: /about/
 ---
 
@@ -10,13 +10,13 @@ permalink: /about/
 
 [Curriculum Vitae(CV)](https://econPreference.github.io/CV.pdf)
 
-## Research Interests
+## Research Fields
 
-Financial Economics, Monetary Economics, Machine Learning, Bayesian Econometrics, Empirical Macroeconomics
+Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics, Empirical Macroeconomics
 
 ## Working Papers
 
-- "A Large Vector Autoregression of the Yield Curve and Macroeconomic Variables with No-Arbitrage Restriction", with Kyu Ho Kang, _under review_\
+- "A Bayesian Large Vector Autoregression of the Yield Curve and Macroeconomic Variables with No-Arbitrage Restriction”, with Kyu Ho Kang, _under review_\
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708628), [[blog post]](https://econpreference.github.io/GDTSM/)
 
   - Related Package: [`TermStructureModels.jl`](https://github.com/econPreference/TermStructureModels.jl) (Julia-based Bayesian estimation and scenario analysis package for the Gaussian affine term structure model, capable of incorporating numerous macro risks and lag terms)
@@ -31,7 +31,7 @@ Financial Economics, Monetary Economics, Machine Learning, Bayesian Econometrics
 
 in Korean
 
-- “Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve”, 2023, **Economic Analysis**, 29(3), 1-34, publisher: Bank of Korea\
+- “Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve”, 2023, _Economic Analysis_, 29(3), 1-34, publisher: Bank of Korea\
   [[paper]](https://www.bok.or.kr/imerEng/bbs/E0002726/view.do?nttId=10079763&menuNo=600346&pageIndex=1)
 
 ## Other Packages
