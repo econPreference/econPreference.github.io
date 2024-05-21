@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
   <a href="url"><img src="https://econpreference.github.io/images/2023-10-7-uprising.gif"></a>
 </p>
 
-- [technical explanation about the graph](https://econpreference.github.io/dyn_yields/)
+- [technical explanation of the graph](https://econpreference.github.io/dyn_yields/)
 
 Discrepancies between the representative and current yield curves highlight the maturities most affected by FOMC decisions. Minimal discrepancies imply that the FOMC might struggle to adjust the corresponding yield rate as desired.
 
