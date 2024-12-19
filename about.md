@@ -12,7 +12,7 @@ permalink: /about/
 
 ## Current Position
 
-Economist, Research Department, Bank of Korea, June 2024 - Present
+Economist, Office of Economic Modeling & Policy Analysis, Bank of Korea, June 2024 - Present
 
 ## Research Fields
 
