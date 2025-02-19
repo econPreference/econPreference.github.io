@@ -20,6 +20,9 @@ Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics
 
 ## Working Papers
 
+- "Statistical and Economic Benefits of Whitening Residuals in Bond Yields"
+  [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5144845)
+
 - "A Bayesian Large Vector Autoregression of the Yield Curve and Macroeconomic Variables with No-Arbitrage Restriction”, with Kyu Ho Kang, _under review_\
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708628), [[blog post]](https://econpreference.github.io/GDTSM/)
 
