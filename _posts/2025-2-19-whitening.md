@@ -4,9 +4,10 @@ title: Is There a Practical Need to Incorporate Strong Autocorrelation in Residu
 excerpt_separator: <!--more-->
 ---
 
-<p style="text-align: center;">
-  <a href="url"><img src="https://econpreference.github.io/images/ 2025-2-19-whitening.png"></a>
-</p>
+> <p style="text-align: center;">
+>   <a href="url"><img src="https://econpreference.github.io/images/ 2025-2-19-whitening.png"></a>
+> </p>
+> <center> Figure 1. Autocorrelation in the residuals. The figure illustrates the autocorrelation of the residuals from the regression of bond yields. Panel (a) shows the results when using the first three principal components of bond yields as regressors, while panel (b) presents the results when both the principal components and the residual factors are used as regressors. </center>
 
 One concern that arises when analyzing bond market models is the strong autocorrelation hidden in the pricing errors of the estimated models. This suggests the presence of systematic movements that traditional bond market models fail to capture. The most rigorous solution is to refine theoretical models to whiten these pricing errors. However, given that traditional models explain nearly 100% of the cross-sectional variation, the practical significance of the remaining autocorrelation in residuals may be negligible. If that is the case, the necessity of improving theoretical models diminishes. In [my new study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5144845), I examine whether the residual autocorrelation contains additional predictive power and whether leveraging it can enhance bond investment returns.
 
