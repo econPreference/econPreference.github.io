@@ -31,7 +31,7 @@ Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics
 - "Regime-Switching Macro Risks in the Term Structure of Interest Rates", with Kyu Ho Kang, _under review_\
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414404), [[blog post]](https://econpreference.github.io/RSmacro/)
 
-- "Global Factors in Inflation and Interest Rates", with Kyu Ho Kang, _ Revise and Resubmit at Open Economies Review_\
+- "Global Factors in Inflation and Interest Rates", with Kyu Ho Kang, _Revise and Resubmit at Open Economies Review_\
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3874405), [[blog post 1]](https://econpreference.github.io/YC_inflt/), [[blog post 2]](https://econpreference.github.io/longend/)
 
 ## Publications
