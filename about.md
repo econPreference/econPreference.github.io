@@ -25,16 +25,15 @@ Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics
 
 - "A Bayesian Large Vector Autoregression of the Yield Curve and Macroeconomic Variables with No-Arbitrage Restriction”, with Kyu Ho Kang, _under review_\
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708628), [[blog post]](https://econpreference.github.io/GDTSM/)
-
   - Related Package: [`TermStructureModels.jl`](https://github.com/econPreference/TermStructureModels.jl) (Julia-based Bayesian estimation and scenario analysis package for the Gaussian affine term structure model, capable of incorporating numerous macro risks and lag terms)
 
-- "Regime-Switching Macro Risks in the Term Structure of Interest Rates", with Kyu Ho Kang, _under review_\
+- "When Are Macro Risks Unspanned?: Evidence from a Regime-Switching Term Structure Model", with Kyu Ho Kang, _under review_\
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414404), [[blog post]](https://econpreference.github.io/RSmacro/)
 
 ## Publications
 
 - "Global Factors in Inflation and Interest Rates", with Kyu Ho Kang, 2025, _Open Economies Review_, forthcoming\
-  [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3874405), [[blog post 1]](https://econpreference.github.io/YC_inflt/), [[blog post 2]](https://econpreference.github.io/longend/)
+  [[paper]](https://link.springer.com/article/10.1007/s11079-025-09848-y), [[blog post 1]](https://econpreference.github.io/YC_inflt/), [[blog post 2]](https://econpreference.github.io/longend/)
 
 in Korean
 
