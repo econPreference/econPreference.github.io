@@ -32,7 +32,7 @@ Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics
 
 ## Publications
 
-- "Global Factors in Inflation and Interest Rates", with Kyu Ho Kang, 2025, _Open Economies Review_, forthcoming\
+- "Global Factors in Inflation and Interest Rates", with Kyu Ho Kang, 2026, _Open Economies Review_, forthcoming\
   [[paper]](https://link.springer.com/article/10.1007/s11079-025-09848-y), [[blog post 1]](https://econpreference.github.io/YC_inflt/), [[blog post 2]](https://econpreference.github.io/longend/)
 
 in Korean
