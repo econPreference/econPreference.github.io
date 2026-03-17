@@ -20,18 +20,18 @@ Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics
 
 ## Working Papers
 
-- "Restrictions on Conditional Correlations in SVARs", with Myunghyun Kim, _under review_\
-  [[paper]](https://github.com/econPreference/econPreference.github.io/blob/master/papers/Conditional_Correlation.pdf)
-
-- "Statistical and Economic Benefits of Whitening Residuals in Bond Yields", _under review_\
-  [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5144845), [[blog post]](https://econpreference.github.io/whitening/)
-
-- "A Bayesian Large Vector Autoregression of the Yield Curve and Macroeconomic Variables with No-Arbitrage Restriction”, with Kyu Ho Kang, _under review_\
-  [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708628), [[blog post]](https://econpreference.github.io/GDTSM/)
-  - Related Package: [`TermStructureModels.jl`](https://github.com/econPreference/TermStructureModels.jl) (Julia-based Bayesian estimation and scenario analysis package for the Gaussian affine term structure model, capable of incorporating numerous macro risks and lag terms)
-
 - "When Are Macro Risks Unspanned?: Evidence from a Regime-Switching Term Structure Model", with Kyu Ho Kang, _under review_\
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414404), [[blog post]](https://econpreference.github.io/RSmacro2/)
+
+- "A Bayesian Large Vector Autoregression of the Yield Curve and Macroeconomic Variables with No-Arbitrage Restriction”, with Kyu Ho Kang, _under review_\
+   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708628), [[blog post]](https://econpreference.github.io/GDTSM/)
+  - Related Package: [`TermStructureModels.jl`](https://github.com/econPreference/TermStructureModels.jl) (Julia-based Bayesian estimation and scenario analysis package for the Gaussian affine term structure model, capable of incorporating numerous macro risks and lag terms)
+
+- "Statistical and Economic Benefits of Whitening Residuals in Bond Yields", _under review_\
+   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5144845), [[blog post]](https://econpreference.github.io/whitening/)
+
+- "Restrictions on Conditional Correlations in SVARs", with Myunghyun Kim, _under review_\
+   [[paper]](https://github.com/econPreference/econPreference.github.io/blob/master/papers/Conditional_Correlation.pdf)
 
 ## Publications
 
