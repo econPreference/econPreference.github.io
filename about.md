@@ -20,6 +20,9 @@ Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics
 
 ## Working Papers
 
+- "Restrictions on Conditional Correlations in SVARs", with Myunghyun Kim, _under review_\
+  [[paper]](https://github.com/econPreference/econPreference.github.io/blob/master/papers/Conditional_Correlation.pdf)
+
 - "Statistical and Economic Benefits of Whitening Residuals in Bond Yields", _under review_\
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5144845), [[blog post]](https://econpreference.github.io/whitening/)
 
