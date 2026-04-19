@@ -33,23 +33,26 @@ This simple idea has large empirical consequences. When we impose only the stand
 
 Figure 1 shows that the gain is not limited to the price response. The credible sets for the impulse responses become visibly narrower, especially for output and prices. Therefore, the correlation restriction does not simply force a textbook result. It meaningfully reduces the set of admissible structural models while remaining grounded in an uncontroversial theoretical implication of demand shocks.
 
-### 3. Oil Supply Shocks: Recovering the Theory-Consistent Price Response
+### 3. Oil Supply Shocks
 
-We then turn to oil supply shocks using the framework of Baumeister and Peersman (2013). Here the relevant theoretical implication reverses. An adverse oil supply shock reduces output but raises prices because higher oil prices increase production costs. Therefore, output and prices should be negatively correlated conditional on the oil supply shock.
+> <p style="text-align: center;">
+>   <a href="url"><img src="https://econpreference.github.io/images/2026-3-17-correlation-restriction-fig2.png"></a>
+> </p>
+> <center> Figure 2. IRFs to an oil supply shock. The lighter area uses only the sign restriction, while the darker area adds the correlation restriction. </center>
 
-Again, the correlation restriction substantially sharpens identification. Without it, the conditional correlation between output and prices is already negative at the posterior median, but the credible interval is still wide enough to allow economically implausible cases. Once the correlation restriction is imposed, the conditional correlation becomes much more tightly negative. The resulting impulse responses are also more sensible. In particular, prices rise more clearly and with much higher posterior probability after an oil supply shock, which is exactly what standard economic theory would predict.
+The same logic also works on the supply side. An adverse oil supply shock reduces world oil production and raises the real oil price. Since oil is a pervasive input in production, this increase in oil prices raises production costs, depresses aggregate supply, lowers output, and raises consumer prices. Therefore, output and prices should be negatively correlated conditional on an oil supply shock.
 
-This is important because it shows that the correlation restriction is useful not only for the famous monetary-policy price puzzle, but also for supply-side applications where sign restrictions alone can leave too much ambiguity in the price response.
+This second application is important because it shows that the correlation restriction is not just a device for fixing the monetary policy price puzzle. It also sharpens identification in a supply shock setting where sign restrictions alone still leave too much uncertainty.
+
+Figure 2 shows exactly that. Without the correlation restriction, the model already produces a negative median conditional correlation, but the credible interval remains very wide. Once the correlation restriction is imposed, the conditional correlation becomes much more tightly negative. The responses of world oil production and the real oil price remain broadly similar, but the responses of output and prices become much more informative. Output is estimated more precisely, and consumer prices rise more clearly and with much higher posterior probability. That is exactly the response implied by standard economic theory for an adverse oil supply shock.
 
 ### Conclusion: A Small Restriction with Large Payoff
 
-Our paper argues that SVAR identification can be improved by exploiting one of the most basic distinctions in macroeconomics: demand shocks move output and prices together, while supply shocks move them in opposite directions. Translating that idea into a restriction on **conditional correlations** turns out to be both easy to implement and empirically powerful.
+The main message of the paper is that a very simple theoretical distinction can be turned into a very useful empirical restriction. Demand shocks make output and prices move together. Supply shocks make them move in opposite directions. Encoding that implication as a restriction on conditional correlations substantially sharpens SVAR identification.
 
-The broader message is that the correlation restriction offers a middle ground between overly weak identification and heavy-handed short-run sign restrictions. It does not force output and prices to move in a particular direction at every horizon. Instead, it imposes the economically meaningful requirement that the model generate the right pattern of comovement overall. In the applications we study, that is enough to make the identified shocks substantially more credible.
+What I find especially appealing is that the same idea works in two very different applications. In the monetary policy case, it helps the model get rid of the price puzzle. In the oil supply case, it restores a price response that is much more consistent with standard theory. More broadly, whenever economic theory gives a clear prediction about comovement across variables under a particular shock, the correlation restriction provides a natural way to use that information without forcing the entire impulse response path to satisfy a long list of horizon by horizon sign restrictions.
 
-For monetary policy shocks, the restriction sharpens inference and makes the price puzzle disappear. For oil supply shocks, it tightens the identified set and yields a price response that is much more consistent with theory. More generally, whenever a researcher has a clear theoretical prediction about the sign of conditional comovement across variables, the correlation restriction provides a natural way to use that information in SVARs.
-
-For more details, please check out our full paper.
+For more details, please check out [our full paper](https://github.com/econPreference/econPreference.github.io/blob/master/papers/Conditional_Correlation.pdf).
 
 ## References
 
