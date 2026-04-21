@@ -27,7 +27,7 @@ Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics
 - "Restrictions on Conditional Correlations in SVARs", with Myunghyun Kim, _under review_\
    [[paper]](https://github.com/econPreference/econPreference.github.io/blob/master/papers/Conditional_Correlation.pdf), [[blog post]](https://econpreference.github.io/conditional-correlation/)
 
-- "When Are Macro Risks Unspanned? Evidence from a Regime-Switching Term Structure Model", with Kyu Ho Kang, _under review_\
+- "When Are Macro Risks Unspanned?: Evidence from a Regime-Switching Term Structure Model", with Kyu Ho Kang, _under review_\
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414404), [[blog post]](https://econpreference.github.io/RSmacro2/)
 
 - "Statistical and Economic Benefits of Whitening Residuals in Bond Yields", _under review_\
