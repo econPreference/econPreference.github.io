@@ -21,13 +21,13 @@ Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics
 ## Working Papers
 
 - "Identifying Monetary Policy Shocks by Matching Theoretical IRFs”, with Myunghyun Kim and Inhwan So, _under review_<br>
-  [[paper]](https://github.com/econPreference/econPreference.github.io/blob/master/papers/IRF_Matching.pdf), [[blog post]](https://econpreference.github.io/irf-matching/)
+  [[paper]](https://econpreference.github.io/papers/IRF_Matching.pdf), [[blog post]](https://econpreference.github.io/irf-matching/)
 - "A Large-Scale Macro-Finance Affine Term Structure Model of Interest Rates”, with Kyu Ho Kang, _under review_<br>
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708628), [[blog post]](https://econpreference.github.io/GDTSM/)
   - Related Package: [`TermStructureModels.jl`](https://github.com/econPreference/TermStructureModels.jl) (Julia-based Bayesian estimation and scenario analysis package for the Gaussian affine term structure model, capable of incorporating numerous macro risks and lag terms)
 
 - "Restrictions on Conditional Correlations in SVARs", with Myunghyun Kim, _under review_<br>
-  [[paper]](https://github.com/econPreference/econPreference.github.io/blob/master/papers/Conditional_Correlation.pdf), [[blog post]](https://econpreference.github.io/conditional-correlation/)
+  [[paper]](https://econpreference.github.io/papers/Conditional_Correlation.pdf), [[blog post]](https://econpreference.github.io/conditional-correlation/)
 - "When Are Macro Risks Unspanned?: Evidence from a Regime-Switching Term Structure Model", with Kyu Ho Kang, _under review_<br>
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414404), [[blog post]](https://econpreference.github.io/RSmacro2/)
 
