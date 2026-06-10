@@ -38,12 +38,12 @@ Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics
 
 ## Publications
 
-- "Global Factors in Inflation and Interest Rates", with Kyu Ho Kang, 2026, _Open Economies Review_`<br>`
+- "Global Factors in Inflation and Interest Rates", with Kyu Ho Kang, 2026, _Open Economies Review_, forthcoming.<br>
   [[paper]](https://link.springer.com/article/10.1007/s11079-025-09848-y), [[blog post 1]](https://econpreference.github.io/YC_inflt/), [[blog post 2]](https://econpreference.github.io/longend/)
 
 in Korean
 
-- “Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve”, 2023, _Economic Analysis_, 29(3), 1-34, publisher: Bank of Korea`<br>`
+- “Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve”, 2023, _Economic Analysis_, 29(3), 1-34, publisher: Bank of Korea.<br>
   [[paper]](https://www.bok.or.kr/imerEng/bbs/E0002726/view.do?nttId=10079763&menuNo=600346&pageIndex=1)
 
 ## Other Packages
