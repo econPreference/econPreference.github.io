@@ -58,7 +58,7 @@ Figure 2 shows that matching prices makes the monetary tightening contractionary
 
 This result illustrates the main advantage of the approach. A theoretical IRF for one variable can help identify the structural shock in a way that improves the responses of variables that are not themselves restricted.
 
-### Conclusion: Theory as Quantitative Information
+### 4. Conclusion: Theory as Quantitative Information
 
 The main message of the paper is simple: theoretical IRFs contain identifying information that standard SVAR restrictions often leave on the table.
 
