@@ -20,30 +20,30 @@ Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics
 
 ## Working Papers
 
-- "Identifying Monetary Policy Shocksby Matching Theoretical IRFs”, with Myunghyun Kim and Inhwan So, _under review_<br>
+- "Identifying Monetary Policy Shocks by Matching Theoretical IRFs”, with Myunghyun Kim and Inhwan So, _under review_ `<br>`
   [[paper]](https://github.com/econPreference/econPreference.github.io/blob/master/papers/IRF_Matching.pdf), [[blog post]](https://econpreference.github.io/irf-matching/)
-- "A Large-Scale Macro-Finance Affine Term Structure Model of Interest Rates”, with Kyu Ho Kang, _under review_<br>
+- "A Large-Scale Macro-Finance Affine Term Structure Model of Interest Rates”, with Kyu Ho Kang, _under review_ `<br>`
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708628), [[blog post]](https://econpreference.github.io/GDTSM/)
   - Related Package: [`TermStructureModels.jl`](https://github.com/econPreference/TermStructureModels.jl) (Julia-based Bayesian estimation and scenario analysis package for the Gaussian affine term structure model, capable of incorporating numerous macro risks and lag terms)
 
-- "Restrictions on Conditional Correlations in SVARs", with Myunghyun Kim, _under review_<br>
+- "Restrictions on Conditional Correlations in SVARs", with Myunghyun Kim, _under review_ `<br>`
   [[paper]](https://github.com/econPreference/econPreference.github.io/blob/master/papers/Conditional_Correlation.pdf), [[blog post]](https://econpreference.github.io/conditional-correlation/)
-- "When Are Macro Risks Unspanned?: Evidence from a Regime-Switching Term Structure Model", with Kyu Ho Kang, _under review_<br>
+- "When Are Macro Risks Unspanned?: Evidence from a Regime-Switching Term Structure Model", with Kyu Ho Kang, _under review_ `<br>`
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414404), [[blog post]](https://econpreference.github.io/RSmacro2/)
 
 ## Working Papers on Hold
 
-- "Statistical and Economic Benefits of Whitening Residuals in Bond Yields" <br>
+- "Statistical and Economic Benefits of Whitening Residuals in Bond Yields" `<br>`
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5144845), [[blog post]](https://econpreference.github.io/whitening/)
 
 ## Publications
 
-- "Global Factors in Inflation and Interest Rates", with Kyu Ho Kang, 2026, _Open Economies Review_<br>
+- "Global Factors in Inflation and Interest Rates", with Kyu Ho Kang, 2026, _Open Economies Review_`<br>`
   [[paper]](https://link.springer.com/article/10.1007/s11079-025-09848-y), [[blog post 1]](https://econpreference.github.io/YC_inflt/), [[blog post 2]](https://econpreference.github.io/longend/)
 
 in Korean
 
-- “Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve”, 2023, _Economic Analysis_, 29(3), 1-34, publisher: Bank of Korea<br>
+- “Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve”, 2023, _Economic Analysis_, 29(3), 1-34, publisher: Bank of Korea`<br>`
   [[paper]](https://www.bok.or.kr/imerEng/bbs/E0002726/view.do?nttId=10079763&menuNo=600346&pageIndex=1)
 
 ## Other Packages
