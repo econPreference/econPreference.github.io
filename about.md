@@ -8,7 +8,7 @@ permalink: /about/
   <a href="url"><img src="https://econpreference.github.io/images/self.jpg" width="360" ></a>
 </p>
 
-[Curriculum Vitae(CV)](https://econPreference.github.io/CV.pdf)
+[Curriculum Vitae (CV)](https://econPreference.github.io/CV.pdf)
 
 ## Current Position
 
@@ -20,9 +20,9 @@ Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics
 
 ## Working Papers
 
-- "Identifying Monetary Policy Shocks by Matching Theoretical IRFs”, with Myunghyun Kim and Inhwan So, _under review_<br>
+- "Identifying Monetary Policy Shocks by Matching Theoretical IRFs", with Myunghyun Kim and Inhwan So, _under review_<br>
   [[paper]](https://econpreference.github.io/papers/IRF_Matching.pdf), [[blog post]](https://econpreference.github.io/irf-matching/)
-- "A Large-Scale Macro-Finance Affine Term Structure Model of Interest Rates”, with Kyu Ho Kang, _under review_<br>
+- "A Large-Scale Macro-Finance Affine Term Structure Model of Interest Rates", with Kyu Ho Kang, _under review_<br>
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708628), [[blog post]](https://econpreference.github.io/GDTSM/)
   - Related Package: [`TermStructureModels.jl`](https://github.com/econPreference/TermStructureModels.jl) (Julia-based Bayesian estimation and scenario analysis package for the Gaussian affine term structure model, capable of incorporating numerous macro risks and lag terms)
 
@@ -31,7 +31,7 @@ Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics
 - "When Are Macro Risks Unspanned?: Evidence from a Regime-Switching Term Structure Model", with Kyu Ho Kang, _under review_<br>
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414404), [[blog post]](https://econpreference.github.io/RSmacro2/)
 
-## Working Papers on Hold
+## Archived Working Papers
 
 - "Statistical and Economic Benefits of Whitening Residuals in Bond Yields"<br>
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5144845), [[blog post]](https://econpreference.github.io/whitening/)
@@ -41,11 +41,9 @@ Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics
 - "Global Factors in Inflation and Interest Rates", with Kyu Ho Kang, 2026, _Open Economies Review_, forthcoming.<br>
   [[paper]](https://link.springer.com/article/10.1007/s11079-025-09848-y), [[blog post 1]](https://econpreference.github.io/YC_inflt/), [[blog post 2]](https://econpreference.github.io/longend/)
 
-in Korean
-
-- “Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve”, 2023, _Economic Analysis_, 29(3), 1-34, publisher: Bank of Korea.<br>
+- "Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve", 2023, _Economic Analysis_, 29(3), 1-34, Bank of Korea (in Korean).<br>
   [[paper]](https://www.bok.or.kr/imerEng/bbs/E0002726/view.do?nttId=10079763&menuNo=600346&pageIndex=1)
 
 ## Other Packages
 
-- [bayecon.matlab](https://github.com/econPreference/bayecon.matlab): User-friendly Bayesian econometrics MATLAB toolbox that does not require users to write a script. It is really easy to use!
+- [bayecon.matlab](https://github.com/econPreference/bayecon.matlab): User-friendly Bayesian econometrics MATLAB toolbox that does not require users to write a script. It is designed to be easy to use.
