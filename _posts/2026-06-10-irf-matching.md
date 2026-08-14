@@ -10,7 +10,7 @@ Theoretical models usually say more than "prices should fall" or "output should 
 
 That omission matters in monetary policy applications. Even widely used identification schemes can produce responses that are hard to reconcile with theory. Prices may fail to fall after a contractionary monetary policy shock, producing the price puzzle. Output may even rise after monetary tightening, despite the contractionary response predicted by standard New Keynesian models.
 
-In [our latest paper](https://github.com/econPreference/econPreference.github.io/blob/master/papers/IRF_Matching.pdf), co-authored with Myunghyun Kim and Inhwan So, **"Identifying Monetary Policy Shocks by Matching Theoretical IRFs,"** we propose a new identification scheme: the **matching restriction**. The restriction uses theoretical impulse response functions (IRFs) to construct a prior over rotations in a set-identified SVAR. Rotations receive higher prior density when they generate empirical IRF distributions that place more mass near the theoretical IRF.
+In [our latest paper](https://econpreference.github.io/papers/IRF_Matching.pdf), co-authored with Myunghyun Kim and Inhwan So, **"Identifying Monetary Policy Shocks by Matching Theoretical IRFs,"** we propose a new identification scheme: the **matching restriction**. The restriction uses theoretical impulse response functions (IRFs) to construct a prior over rotations in a set-identified SVAR. Rotations receive higher prior density when they generate empirical IRF distributions that place more mass near the theoretical IRF.
 
 The idea is to let theory discipline the shape of selected responses without forcing the entire SVAR to mirror a DSGE model. In our applications, matching only one theoretically informative response is enough to improve the behavior of several other variables.
 
@@ -66,7 +66,7 @@ Sign restrictions use the direction of selected responses. The matching restrict
 
 In our monetary policy applications, this additional information resolves the price puzzle in one benchmark SVAR and the positive output response puzzle in another. More broadly, whenever theory provides a clear prediction for the dynamic response of at least one variable, the matching restriction offers a practical way to use that prediction in set-identified SVARs.
 
-For more details, please check out [our full paper](https://github.com/econPreference/econPreference.github.io/blob/master/papers/IRF_Matching.pdf).
+For more details, please check out [our full paper](https://econpreference.github.io/papers/IRF_Matching.pdf).
 
 ## References
 

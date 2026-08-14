@@ -8,7 +8,7 @@ Since Uhlig (2005), sign restrictions have become one of the most widely used to
 
 This is particularly clear in two classic applications. In monetary SVARs, sign-restricted models often struggle with the **price puzzle**, the result that prices fail to fall after a contractionary monetary policy shock. In oil market SVARs, sign restrictions can also leave the price response to an oil supply shock too weak or too uncertain to line up cleanly with theory.
 
-In [our latest paper](https://github.com/econPreference/econPreference.github.io/blob/master/papers/Conditional_Correlation.pdf) co-authored with Myunghyun Kim, **"Restrictions on Conditional Correlations in SVARs,"** we propose a new type of restriction that is both simple and theoretically transparent: the **correlation restriction**. The idea is straightforward. Conditional on a demand shock, output and prices should move together, so their conditional correlation should be positive. Conditional on a supply shock, output and prices should move in opposite directions, so their conditional correlation should be negative. We show that this restriction materially sharpens identification of both monetary policy shocks and oil supply shocks.
+In [our latest paper](https://econpreference.github.io/papers/Conditional_Correlation.pdf) co-authored with Myunghyun Kim, **"Restrictions on Conditional Correlations in SVARs,"** we propose a new type of restriction that is both simple and theoretically transparent: the **correlation restriction**. The idea is straightforward. Conditional on a demand shock, output and prices should move together, so their conditional correlation should be positive. Conditional on a supply shock, output and prices should move in opposite directions, so their conditional correlation should be negative. We show that this restriction materially sharpens identification of both monetary policy shocks and oil supply shocks.
 
  <!--more-->
 
@@ -48,7 +48,7 @@ The main message of the paper is that a very simple theoretical distinction can 
 
 An especially appealing feature of the approach is that the same idea works in two very different applications. In the monetary policy case, it helps the model get rid of the price puzzle. In the oil supply case, it restores a price response that is much more consistent with standard theory. More broadly, whenever economic theory gives a clear prediction about comovement across variables under a particular shock, the correlation restriction provides a natural way to use that information without forcing the entire impulse response path to satisfy a long list of horizon by horizon sign restrictions.
 
-For more details, please check out [our full paper](https://github.com/econPreference/econPreference.github.io/blob/master/papers/Conditional_Correlation.pdf).
+For more details, please check out [our full paper](https://econpreference.github.io/papers/Conditional_Correlation.pdf).
 
 ## References
 
