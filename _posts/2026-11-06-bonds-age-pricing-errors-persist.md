@@ -21,7 +21,7 @@ Suppose the Treasury issues more ten-year bonds than usual this month. Arbitrage
 
 I study this mechanism in the preferred-habitat model of Vayanos and Vila (2021), with balance-sheet costs as in He, Nagel, and Song (2022). I show analytically that as bonds age, they can generate strongly autocorrelated residuals at short lags even when a few factors explain almost all price variation. Solving the calibrated model numerically leads to the same conclusion.
 
-For the derivations and the full results, see my paper, [*Bonds Age, Pricing Errors Persist*](https://econpreference.github.io/papers/Autocorr_Residuals.pdf).
+For the derivations and the full results, see my paper, [*Bonds Age, Pricing Errors Persist*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7681365).
 
 ## References
 
