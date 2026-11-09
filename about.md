@@ -16,18 +16,20 @@ Economist, Office of Economic Modeling & Policy Analysis, Bank of Korea, June 20
 
 ## Research Fields
 
-Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics, Empirical Macroeconomics
+Financial Economics, Monetary Economics, Machine Learning, Bayesian Econometrics
 
 ## Working Papers
 
+- "Bonds Age, Pricing Errors Persist", _under review_<br>
+  [[paper]](https://econpreference.github.io/papers/Autocorr_Residuals.pdf), [[blog post]](https://econpreference.github.io/bonds-age-pricing-errors-persist/)
 - "Identifying Monetary Policy Shocks by Matching Theoretical IRFs", with Myunghyun Kim and Inhwan So, _under review_<br>
   [[paper]](https://econpreference.github.io/papers/IRF_Matching.pdf), [[blog post]](https://econpreference.github.io/irf-matching/)
+- "Restrictions on Conditional Correlations in SVARs", with Myunghyun Kim, _under review_<br>
+  [[paper]](https://econpreference.github.io/papers/Conditional_Correlation.pdf), [[blog post]](https://econpreference.github.io/conditional-correlation/)
 - "A Large-Scale Macro-Finance Affine Term Structure Model of Interest Rates", with Kyu Ho Kang, _under review_<br>
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708628), [[blog post]](https://econpreference.github.io/GDTSM/)
   - Related Package: [`TermStructureModels.jl`](https://github.com/econPreference/TermStructureModels.jl) (Julia-based Bayesian estimation and scenario analysis package for the Gaussian affine term structure model, capable of incorporating numerous macro risks and lag terms)
 
-- "Restrictions on Conditional Correlations in SVARs", with Myunghyun Kim, _under review_<br>
-  [[paper]](https://econpreference.github.io/papers/Conditional_Correlation.pdf), [[blog post]](https://econpreference.github.io/conditional-correlation/)
 - "State-Dependent Unspanned Predictive Information in the U.S. Treasury Market", with Kyu Ho Kang, _under review_<br>
   [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4414404), [[blog post]](https://econpreference.github.io/RSmacro2/)
 
@@ -38,7 +40,7 @@ Machine Learning, Bayesian Econometrics, Financial Economics, Monetary Economics
 
 ## Publications
 
-- "Global Factors in Inflation and Interest Rates", with Kyu Ho Kang, 2026, _Open Economies Review_, forthcoming.<br>
+- "Global Factors in Inflation and Interest Rates", with Kyu Ho Kang, 2026, _Open Economies Review_.<br>
   [[paper]](https://link.springer.com/article/10.1007/s11079-025-09848-y), [[blog post 1]](https://econpreference.github.io/YC_inflt/), [[blog post 2]](https://econpreference.github.io/longend/)
 
 - "Analysis of the Regime-Switching Property of Unspanned Macro Risks in the Korean Yield Curve", 2023, _Economic Analysis_, 29(3), 1-34, Bank of Korea (in Korean).<br>
