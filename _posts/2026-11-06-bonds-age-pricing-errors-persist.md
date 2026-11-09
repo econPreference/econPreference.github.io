@@ -8,14 +8,14 @@ Bond researchers have long puzzled over why a model can fit the yield curve so c
 
 I kept coming back to those errors in my own work on bonds. In an earlier study, I extracted factors from the errors and tested whether they helped forecast bond returns. Even when those factors captured much of the autocorrelation, I still wanted to know what made the errors persist in the first place. This paper grew out of that curiosity.
 
-<!--more-->
-
 Figure 1 shows the puzzle in U.S. Treasury data. Two principal components explain **99.77%** of the variance in monthly yields at maturities from one to thirty years. Yet the ten-year residual has a correlation of 0.90 with its value one month earlier and 0.60 with its value six months earlier.
 
 > <p style="text-align: center;">
 >   <a href="../images/2026-11-06-bonds-age-residual-autocorrelation.png"><img src="../images/2026-11-06-bonds-age-residual-autocorrelation.png" alt="Autocorrelations of Treasury yield residuals after removing two principal components, at lags of one, three, six, and twelve months."></a>
 > </p>
 > <center> Figure 1. Autocorrelation of U.S. Treasury yield residuals after removing the first two principal components. Data: Filipović, Pelger, and Ye (2026), November 1985–June 2025. </center>
+
+<!--more-->
 
 Suppose the Treasury issues more ten-year bonds than usual this month. Arbitrageurs require compensation to absorb the extra interest-rate risk, so the issue affects yields today. A month later those bonds have nine years and eleven months left. They still carry much the same risk as a new ten-year bond, so the original issue continues to affect the ten-year yield. I call this continuing influence the **issuance cohort effect**. It links yields across months even when new issues are independent.
 
